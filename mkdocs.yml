@@ -1,0 +1,7 @@
+site_name: Recycling Notes
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: teal
