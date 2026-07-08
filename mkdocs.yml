@@ -1,7 +1,25 @@
 site_name: Recycling Notes
+
+nav:
+  - Home: index.md
+  - Recycling Guide: recycling-guide.md
+  - Respirator Specs: respirator-equipment.md
+
 theme:
   name: material
   palette:
     scheme: slate
     primary: teal
     accent: teal
+
+markdown_extensions:
+  - tables
+  - admonition
+
+plugins:
+  - search
+  - tags
+
+extra_javascript:
+  - javascripts/tablesort.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
