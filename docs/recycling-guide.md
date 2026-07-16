@@ -44,6 +44,7 @@
 
 | Name | Address | Phone | Accepts | Notes |
 |---|---|---|---|---|
+| **🆕 City of Quincy Recycling Drop-off (Harrison Hy-Vee)** | 1400 Harrison St, 62301 (behind Hy-Vee) | — (unstaffed; city Dept. of Utilities (217) 228-4580 for general questions) | Single-stream: glass, paper, plastic, metal cans, cardboard, all together in one bin | ✅ Confirmed — one of three free municipal drop-off sites the City of Quincy set up in 2023. Open 7 days/week, dawn to dusk, no attendant. Open to anyone, not just Quincy residents (businesses excluded). **Submitted by Cat, July 2026** — good option for offloading excess glass when our own crushing/storage backs up. |
 | Alter Metal | 2834 Gardner Expy, 62305 | (217) 223-0156 | Solar batteries, appliances (fridges), tools (impact drivers, circular saws). **Not accepted:** computers, TVs, lithium batteries | ✅ Confirmed active, same hours (Mon/Wed/Fri/Thu 8am–4:15pm, closed Tue/Sat/Sun). Note: zip corrected to 62305 (was listed as 62306). |
 | Quincy Recycle | 526 S. 6th Street, 62301 | (217) 224-0353 | — | Per prior note, now corporate-customers-only; takes glass Saturdays 9am–noon, sorted by color. |
 | Agco Recycling LLC | 4425 Gardner Expy, 62305 | (217) 224-9048 | — | Not yet independently re-verified. |
